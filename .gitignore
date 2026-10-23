@@ -1,0 +1,8 @@
+node_modules/
+.next/
+
+# Local environment settings (never commit secrets)
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
